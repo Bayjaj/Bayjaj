@@ -11,13 +11,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/roblox/roblox-icon.svg" width="40" height="40"/>
-  </a>
   <a href="https://luau-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/lua" width="40" height="40"/>
   </a>
