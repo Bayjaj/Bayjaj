@@ -14,21 +14,11 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a> 
-
-  <!-- Roblox -->
+  
   <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" alt="roblox" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/roblox/roblox-icon.svg" width="40" height="40"/>
   </a>
-
-  <!-- Luau -->
   <a href="https://luau-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Roblox/luau/master/docs/assets/luau-logo.svg" alt="luau" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/lua" width="40" height="40"/>
   </a>
-
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
 </p>
